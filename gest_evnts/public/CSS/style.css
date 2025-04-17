@@ -1,0 +1,22 @@
+
+body {
+    padding-top: 60px;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.header-title {
+    margin-bottom: 500px;
+    margin-top: 500px;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.btn {
+    margin-right: 5px;
+}
